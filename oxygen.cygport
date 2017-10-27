@@ -1,7 +1,7 @@
 inherit kde4 kf5
 
 NAME="oxygen"
-VERSION=5.8.5
+VERSION=5.8.8
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Oxygen theme"
